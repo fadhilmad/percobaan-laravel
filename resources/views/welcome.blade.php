@@ -283,13 +283,6 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="sec-title text-center wow animated fadeInDown">
-                        <h2>Project fitur</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.</p>
-                    </div>
-
-
                     <ul class="project-wrapper wow animated fadeInUp">
                         <li class="portfolio-item">
                             <img src="img/portfolio/item.jpg" class="img-responsive"
